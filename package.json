@@ -1,0 +1,15 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "My first app in NodeJs",
+  "main": "hello.js",
+  "scripts": {
+    "start": "node hello.js"
+  },
+  "keywords": [
+    "myapp"
+  ],
+  "author": "Ravi Vadisala",
+  "license": "GPL-3.0",
+  "dependencies": {}
+}
